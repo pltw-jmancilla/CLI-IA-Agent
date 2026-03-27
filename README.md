@@ -1,16 +1,13 @@
+
+```bash
+$ python main.py
+```
+
+
+<img width="2560" height="1370" alt="Diseño sin título (6)" src="https://github.com/user-attachments/assets/b6971d41-c2d7-42e8-9093-de9d7a484c23" />
+
 <div align="center">
 
-```
-╔════════════════════════════════════════════════╗
-║                                                ║
-║                                                ║
-║  ░█▀█░█░░░█▀█░▀█▀░█░█░█▀█░█░█░█▀▀░░░▀█▀░█▀█░░  ║
-║  ░█▀▀░█░░░█▀█░░█░░█▄█░█▀█░▀▄▀░█▀▀░░░░█░░█▀█░░  ║
-║  ░▀░░░▀▀▀░▀░▀░░▀░░▀░▀░▀░▀░░▀░░▀▀▀░░░▀▀▀░▀░▀░░  ║
-║                                                ║
-║                                                ║
-╚════════════════════════════════════════════════╝
-```
 
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
@@ -20,17 +17,6 @@
 [![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 
 </div>
-
-<br>
-
-```bash
-$ python main.py
-```
-
-
-<img width="2560" height="1370" alt="Diseño sin título (6)" src="https://github.com/user-attachments/assets/b6971d41-c2d7-42e8-9093-de9d7a484c23" />
-
-
 
 <br>
 
