@@ -213,21 +213,14 @@ IA-Agent/
 [ ] Nuevos sub-agentes especializados
 ```
 
----
-
-## `> _ LICENSE`
-
-```
-MIT License · JoakoMancilla · 2025
-```
-
 <br>
 
 <div align="center">
 
 ```
 ╭──────────────────────────────────────────────────────────────╮
-│   Built while learning · AI Agents · RAG · LLM Observability │
+│               Developed for: Platwave-Technologies®          │
+│                 Professional Internship · 2026               │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
