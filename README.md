@@ -29,7 +29,8 @@
 $ python main.py
 ```
 
-<img width="2066" height="994" alt="Captura de pantalla 2026-03-26 002131" src="https://github.com/user-attachments/assets/cb789c1a-3b91-4e12-b249-f4b2b5d8ce3d" />
+<img width="2560" height="1370" alt="Captura de pantalla 2026-03-27 165813" src="https://github.com/user-attachments/assets/f8fe31f2-98c2-441a-88ac-dc2ca9520f5c" />
+
 
 
 <br>
