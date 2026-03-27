@@ -3,8 +3,9 @@
 $ python main.py
 ```
 
+<img width="2560" height="1370" alt="Platwave-UI-CLI" src="https://github.com/user-attachments/assets/921a9f43-a3a4-43f7-85de-8efb99219932" />
 
-<img width="2560" height="1370" alt="Diseño sin título (6)" src="https://github.com/user-attachments/assets/b6971d41-c2d7-42e8-9093-de9d7a484c23" />
+
 
 <div align="center">
 
